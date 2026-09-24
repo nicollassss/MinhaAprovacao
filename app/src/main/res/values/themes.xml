@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MinhaAprovacao" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

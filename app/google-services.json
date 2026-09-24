@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780102065463",
+    "project_id": "minhaaprovacao-3bcdc",
+    "storage_bucket": "minhaaprovacao-3bcdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780102065463:android:ae5e31ce7782d8c8498eb2",
+        "android_client_info": {
+          "package_name": "com.example.mapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sTxwvsEo8qO3BBq1GQwdG1FSvFwKQxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780102065463:android:5f61bd55d3b027fe498eb2",
+        "android_client_info": {
+          "package_name": "com.minhaaprovacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sTxwvsEo8qO3BBq1GQwdG1FSvFwKQxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
